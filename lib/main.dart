@@ -36,7 +36,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
   ]; // Your list of ChatModel objects
 
-  String apiKey = 'AIzaSyBL2itf27Auxb1dM7yAfBvp8Y0fay_2-OY'; // Your API key
+  String apiKey = 'Your Api Key'; // Your API key
 
   @override
   Widget build(BuildContext context) {
