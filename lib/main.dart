@@ -5,7 +5,6 @@ import 'package:flutter_gemini_bot/models/chat_model.dart';
 void main() {
   runApp(MyApp());
 }
-
 class MyApp extends StatelessWidget {
   MyApp({Key? key});
 
