@@ -40,6 +40,7 @@ class _MyHomePageState extends State<MyHomePage> {
         backgroundColor: Colors.white,
         title: Text(widget.title),
       ),
+      
       body: FlutterGeminiChat(
         chatContext: 'you are chatbot of UrbanBuy uraban buy is a shopping app made with stack of flutter it helps user to shop tshirt,shirts,bags ,watches,shoes for all men women and kids and aslo we can order anything yes we deliver international if any user ask help with order ask for its order number',
         chatList: chatList,
